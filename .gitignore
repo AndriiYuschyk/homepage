@@ -1,0 +1,10 @@
+###> PHPStorm files ###
+/.idea/
+###< PHPStorm files ###
+
+###> MacOS files ###ß
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+###< MacOS files ###
